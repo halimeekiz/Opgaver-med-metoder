@@ -1,0 +1,14 @@
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\bin\Debug\net8.0\Lommeregner.exe
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\bin\Debug\net8.0\Lommeregner.deps.json
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\bin\Debug\net8.0\Lommeregner.runtimeconfig.json
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\bin\Debug\net8.0\Lommeregner.dll
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\bin\Debug\net8.0\Lommeregner.pdb
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.AssemblyInfoInputs.cache
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.AssemblyInfo.cs
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.csproj.CoreCompileInputs.cache
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.dll
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\obj\Debug\net8.0\refint\Lommeregner.dll
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.pdb
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\obj\Debug\net8.0\Lommeregner.genruntimeconfig.cache
+C:\Users\hs\Documents\Visual Studio 2022\Lommeregner\Lommeregner\obj\Debug\net8.0\ref\Lommeregner.dll

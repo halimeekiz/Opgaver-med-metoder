@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hs\\Documents\\Visual Studio 2022\\Lommeregner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F83F2D2-6931-4281-B8EE-AD0C59C44668}|Lommeregner\\Lommeregner.csproj|c:\\users\\hs\\documents\\visual studio 2022\\lommeregner\\lommeregner\\projektnavn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F83F2D2-6931-4281-B8EE-AD0C59C44668}|Lommeregner\\Lommeregner.csproj|solutionrelative:lommeregner\\projektnavn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F83F2D2-6931-4281-B8EE-AD0C59C44668}|Lommeregner\\Lommeregner.csproj|c:\\users\\hs\\documents\\visual studio 2022\\lommeregner\\lommeregner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F83F2D2-6931-4281-B8EE-AD0C59C44668}|Lommeregner\\Lommeregner.csproj|solutionrelative:lommeregner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projektnavn.cs",
+              "DocumentMoniker": "C:\\Users\\hs\\Documents\\Visual Studio 2022\\Lommeregner\\Lommeregner\\Projektnavn.cs",
+              "RelativeDocumentMoniker": "Lommeregner\\Projektnavn.cs",
+              "ToolTip": "C:\\Users\\hs\\Documents\\Visual Studio 2022\\Lommeregner\\Lommeregner\\Projektnavn.cs",
+              "RelativeToolTip": "Lommeregner\\Projektnavn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:35:03.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hs\\Documents\\Visual Studio 2022\\Lommeregner\\Lommeregner\\Program.cs",
+              "RelativeDocumentMoniker": "Lommeregner\\Program.cs",
+              "ToolTip": "C:\\Users\\hs\\Documents\\Visual Studio 2022\\Lommeregner\\Lommeregner\\Program.cs",
+              "RelativeToolTip": "Lommeregner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:30:39.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
