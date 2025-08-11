@@ -1,10 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary">
+      <HintPath>..\..\..\..\Data &amp; Kommunikation GF2\Programmering - Visuel Studio\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 
 </Project>
